@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Dec 01 15:30:27 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=252FTP.jar
+manifest.mergeall=true
+manifest.mainclass=com.xl.client.shell.LoginShell
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
